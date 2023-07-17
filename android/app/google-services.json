@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231095125934",
+    "project_id": "mpcalcu",
+    "storage_bucket": "mpcalcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231095125934:android:02fa522e22cd3499afea3f",
+        "android_client_info": {
+          "package_name": "com.g4g.mpcalcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231095125934-she2osmlf200973nov2k56fnomhgllsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckOso4GC8G0L4qUghBJbScjuZI4buf9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231095125934-she2osmlf200973nov2k56fnomhgllsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
